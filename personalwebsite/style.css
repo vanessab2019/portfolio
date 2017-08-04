@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Tangerine');
+body {
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+}
+h1 {
+  font-size:150px;
+  font-family: 'Tangerine', cursive;
+  text-shadow: 12px 15px grey;
+  margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+h2{
+  font-size:30px;
+}
+h3 {
+  font-size:25px;
+}
+h4 {
+  font-size:25px;
+}
+h5 {
+  font-size:25px; text-align: center;
+}
+body {
+    background-image:url(https://s-media-cache-ak0.pinimg.com/originals/86/f7/6f/86f76f002b845c4f957072446c4e61e4.png);
+}
+h6 {
+font-size: 25px;
+}
+p {
+  font-size: 35px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px 0px;
+  border-radius: 90%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #db1c62;
+  color: white;
+}
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
